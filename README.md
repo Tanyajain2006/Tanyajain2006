@@ -1,8 +1,8 @@
-"Conjure your code🪄, let the logic sparkle✨, and watch your programs cast their spell🔮."
+### "Conjure your code🪄, let the logic sparkle✨, and watch your programs cast their spell🔮."
 
 Welcome to my GitHub! I'm Tanya Jain, a Computer Science Engineering (AI specialization) undergraduate at Indira Gandhi Delhi Technical University for Women. I am passionate about leveraging technology and AI to solve real-world problems and have experience in developing machine learning models, data analysis, and end-to-end AI solutions.
 
-##👩‍💻 About Me
+## 👩‍💻 About Me
 🎓 BTech in Computer Science Engineering (AI Specialization), IGDTUW (2023-2027)
 📚 CGPA: 8.59
 🔍 Skilled in Python, Java, C, and core computer science concepts like Data Structures, Algorithms, DBMS, and OOP.
