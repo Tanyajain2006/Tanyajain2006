@@ -3,10 +3,10 @@
 Welcome to my GitHub! I'm Tanya Jain, a Computer Science Engineering (AI specialization) undergraduate at Indira Gandhi Delhi Technical University for Women. I am passionate about leveraging technology and AI to solve real-world problems and have experience in developing machine learning models, data analysis, and end-to-end AI solutions.
 
 ## 👩‍💻 About Me
-  🎓 BTech in Computer Science Engineering (AI Specialization), IGDTUW (2023-2027)
-  📚 CGPA: 8.59
-  🔍 Skilled in Python, Java, C, and core computer science concepts like Data Structures, Algorithms, DBMS, and OOP.
-  🏅 Runner-Up at Ideagen 2024 Innovation Competition, with a project empowering artisans.
+1. BTech in Computer Science Engineering (AI Specialization), IGDTUW (2023-2027)🎓 
+2. CGPA: 8.59📚
+3. Skilled in Python, Java, C, and core computer science concepts like Data Structures, Algorithms, DBMS, and OOP.🔍
+4. Runner-Up at Ideagen 2024 Innovation Competition, with a project empowering artisans. 🏅 
 
 ## 🚀 Featured Projects
 1. Anxiety and Depression Model
@@ -31,16 +31,16 @@ Welcome to my GitHub! I'm Tanya Jain, a Computer Science Engineering (AI special
 
 ## 🛠️ Skills
 1. Technical Skills
-  Programming Languages: Python, Java, C.
-  CS Concepts: Data Structures, Algorithms, DataBase Management Systems, Object Oriented Programming, SQL.
+  a. Programming Languages: Python, Java, C.
+  b. CS Concepts: Data Structures, Algorithms, DataBase Management Systems, Object Oriented Programming, SQL.
 
-2. Soft Skills
-  Leadership
-  Event Coordination
-  Problem Solving
-  Public Speaking
-  Collaboration
-  Time Management.
+3. Soft Skills
+  a. Leadership
+  b. Event Coordination
+  c. Problem Solving
+  d. Public Speaking
+  e. Collaboration
+  f. Time Management.
 
 ## 📫 Connect with Me
 1. LinkedIn: https://www.linkedin.com/in/TanyaJain-igdtuw-cseai27/
