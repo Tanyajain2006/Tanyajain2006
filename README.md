@@ -31,16 +31,16 @@ Welcome to my GitHub! I'm Tanya Jain, a Computer Science Engineering (AI special
 
 ## 🛠️ Skills
 1. Technical Skills
-  a. Programming Languages: Python, Java, C.
-  b. CS Concepts: Data Structures, Algorithms, DataBase Management Systems, Object Oriented Programming, SQL.
+  (a) Programming Languages: Python, Java, C.
+  (b) CS Concepts: Data Structures, Algorithms, DataBase Management Systems, Object Oriented Programming, SQL.
 
 3. Soft Skills
-  a. Leadership
-  b. Event Coordination
-  c. Problem Solving
-  d. Public Speaking
-  e. Collaboration
-  f. Time Management.
+  (a) Leadership
+  (b) Event Coordination
+  (c) Problem Solving
+  (d) Public Speaking
+  (e) Collaboration
+  (f) Time Management.
 
 ## 📫 Connect with Me
 1. LinkedIn: https://www.linkedin.com/in/TanyaJain-igdtuw-cseai27/
