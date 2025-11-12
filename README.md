@@ -34,10 +34,13 @@
 
 ---
 
-### 🎨 Creative & Design Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=canva,figma,miro,ppt" />
-</p>
+### 🎨 Coding Profiles:
+ <a href="https://leetcode.com/u/jaintanya2006/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+ <a href="https://www.geeksforgeeks.org/user/tanyajain2006/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+</a>
 
 ---
 
