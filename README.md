@@ -36,7 +36,7 @@
 
 ### 🎨 Creative & Design Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,miro,ppt" />
+  <img src="https://skillicons.dev/icons?i=canva,figma,miro,ppt" />
 </p>
 
 ---
@@ -54,13 +54,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanyajain2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Trophy Wall:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanyajain2006&theme=onedark&row=1&column=7" />
 </p>
 
 ---
