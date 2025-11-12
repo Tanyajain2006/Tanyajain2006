@@ -4,12 +4,14 @@
 ---
 
 ### 💫 About Me:
-- 🎓 CSE (AI) Student at **IGDTUW'27**
+- 🎓 Pre-final year CSE-AI Student at **IGDTUW'27**
 - 💻 Passionate about **solving problems with code**
-- 📚 Constantly learning **Data Structures & Algorithms (DSA)**
-- 🌐 Exploring **AI, ML, and Backend Development using SpringBoot (A framework of Java) **
+- 📚 Solved 700+ problems of **Data Structures & Algorithms (DSA)**
+- 🌐 Exploring **AI, ML, and Backend Development using SpringBoot**
 - 💡 Hackathons & Ideathons = My playground
-- 🤝 Open to collaboration and innovation!
+- ❄️ Top 10 in GDG’s SnowScript Winter of Code.
+- 🥈 RunnerUp @IdeaGen’24 (Felicitated by VC)
+- 🤝 Open to collaboration and love to participate in coding as well as dev competitions!
 
 ---
 
