@@ -3,6 +3,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Tanyajain2006&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
 ### 💫 About Me:
 - 🎓 Pre-final year CSE-AI Student at **IGDTUW'27**
 - 💻 Passionate about **solving problems with code**
