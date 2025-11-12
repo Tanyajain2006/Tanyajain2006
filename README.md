@@ -34,12 +34,12 @@
 
 ---
 
-### 🎨 Coding Profiles:
+### 💻 Coding Profiles:
  <a href="https://leetcode.com/u/jaintanya2006/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
  <a href="https://www.geeksforgeeks.org/user/tanyajain2006/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=GeeksforGeeks&logoColor=black" />
 </a>
 
 ---
