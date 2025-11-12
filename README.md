@@ -22,14 +22,14 @@
 
 ### 🌐 Web & AI Development:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,spring, python,machine-laerning" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,spring" />
 </p>
 
 ---
 
 ### ⚙️ Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,IntelliJ,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
