@@ -1,49 +1,80 @@
-## "Conjure your code🪄, let the logic sparkle✨, and watch your programs cast their spell🔮."
+<h1 align="center">Hi there 👋, I'm Tanya Jain</h1>
+<h3 align="center">Turning Ideas into Digital Reality 🚀</h3>
 
-Welcome to my GitHub! I'm Tanya Jain, a Computer Science Engineering (AI specialization) undergraduate at Indira Gandhi Delhi Technical University for Women. I am passionate about leveraging technology and AI to solve real-world problems and have experience in developing machine learning models, data analysis, and end-to-end AI solutions.
+---
 
-## 👩‍💻 About Me
-1. BTech in Computer Science Engineering (AI Specialization), IGDTUW (2023-2027)🎓 
-2. CGPA: 8.59📚
-3. Skilled in Python, Java, C, and core computer science concepts like Data Structures, Algorithms, DBMS, and OOP.🔍
-4. Runner-Up at Ideagen 2024 Innovation Competition, with a project empowering artisans. 🏅 
+### 💫 About Me:
+- 🎓 CSE (AI) Student at **IGDTUW'27**
+- 💻 Passionate about **solving problems with code**
+- 📚 Constantly learning **Data Structures & Algorithms (DSA)**
+- 🌐 Exploring **AI, ML, and Backend Development using SpringBoot (A framework of Java) **
+- 💡 Hackathons & Ideathons = My playground
+- 🤝 Open to collaboration and innovation!
 
-## 🚀 Featured Projects
-1. Anxiety and Depression Model
-  Overview: Developed an ML model to detect anxiety and depression in social media posts with 89.59% accuracy.
-  Tech Stack: Python, Scikit-Learn, TF-IDF, Multinomial Naive Bayes.
-  Dataset: 6500+ annotated social media posts.
+---
 
-2. Credit Card Fraud Detection
-  Overview: Designed a Logistic Regression model achieving 92.39% accuracy for detecting fraudulent transactions.
-  Enhanced predictive performance with hyperparameter optimization. Also authored a research paper, submitted to ICAIA 2025.
-  Tech Stack: Python, Scikit-Learn, Pandas, NumPy, Matplotlib.
+### 🧠 Core Programming Languages:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
 
-3. Waste Segregation Model
-  Overview: Built a CNN-based AI model for waste classification with 90% accuracy.
-  Tech Stack: Python, TensorFlow, Keras, OpenCV.
-  Impact: Streamlined waste sorting processes with augmented training datasets.
+---
 
-## 🌟 Achievements:
-1. Gold Medalist: Top 1% in Science Olympiad Foundation Exam, 2019.
-2. Mentorship Program: GDSC IGDTUW DSA Circle (2023-2024), achieving 15% efficiency improvement in problem-solving.
-3. Session Moderator: Conducted 10+ interactive sessions, improving engagement by 30%.
+### 🌐 Web & AI Development:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,springboot" />
+</p>
 
-## 🛠️ Skills
-1. Technical Skills
-  (a) Programming Languages: Python, Java, C.
-  (b) CS Concepts: Data Structures, Algorithms, DataBase Management Systems, Object Oriented Programming, SQL.
+---
 
-3. Soft Skills
-  (a) Leadership
-  (b) Event Coordination
-  (c) Problem Solving
-  (d) Public Speaking
-  (e) Collaboration
-  (f) Time Management.
+### ⚙️ Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,intellij,postman" />
+</p>
 
-## 📫 Connect with Me
-1. LinkedIn: https://www.linkedin.com/in/TanyaJain-igdtuw-cseai27/
-2. GitHub: https://github.com/Tanyajain2006
+---
 
-Let’s collaborate and build innovative solutions together!
+### 🎨 Creative & Design Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,canva,miro,ppt" />
+</p>
+
+---
+
+### 🧩 Neural Intelligence Arsenal:
+<p align="left">
+  <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanyajain2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Trophy Wall:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanyajain2006&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+### 🔗 Connect With Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanyajain2006/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💬 Quote:
+Conjure your code🪄, let the logic sparkle✨, and watch your programs cast their spell🔮
+
+---
