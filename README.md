@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Tanya Jain</h1>
 <h3 align="center">Turning Ideas into Digital Reality 🚀</h3>
 
----
-
 ### 💫 About Me:
 - 🎓 Pre-final year CSE-AI Student at **IGDTUW'27**
 - 💻 Passionate about **solving problems with code**
@@ -13,28 +11,20 @@
 - 🥈 RunnerUp @IdeaGen’24 (Felicitated by VC)
 - 🤝 Open to collaboration and love to participate in coding as well as dev competitions!
 
----
-
 ### 🧠 Core Programming Languages:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
-
----
 
 ### 🌐 Web & AI Development:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,mysql" />
 </p>
 
----
-
 ### ⚙️ Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
----
 
 ### 💻 Coding Profiles:
  <a href="https://leetcode.com/u/jaintanya2006/" target="_blank">
@@ -44,8 +34,6 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-Green?style=for-the-badge&logo=GeeksforGeeks&logoColor=black" />
 </a>
 
----
-
 ### 🧩 Neural Intelligence Arsenal:
 <p align="left">
   <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
@@ -53,15 +41,11 @@
   <img src="https://img.shields.io/badge/-GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanyajain2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 ### 🔗 Connect With Me:
 <p align="left">
@@ -70,12 +54,8 @@
   </a>
 </p>
 
----
-
 ### 💬 Quote:
 Conjure your code🪄, let the logic sparkle✨, and watch your programs cast their spell🔮
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tanyajain2006&label=Profile%20Views&color=0e75b6&style=flat)
 
