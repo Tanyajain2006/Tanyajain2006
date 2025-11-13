@@ -12,12 +12,12 @@
 - 🤝 Open to collaboration and love to participate in coding as well as dev competitions!
 
 ### 🧠 Core Programming Languages:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### 🌐 Web & AI Development:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,mysql" />
   <!-- <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=black" />
   <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=black" />
@@ -25,7 +25,7 @@
 </p>
 
 ### ⚙️ Tools:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
@@ -38,7 +38,7 @@
 </a>
 
 ### 🧩 Neural Intelligence Arsenal:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
