@@ -24,7 +24,7 @@
 
 ### 🌐 Web & AI Development:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,mysql,apache tomcat" />
 </p>
 
 ---
