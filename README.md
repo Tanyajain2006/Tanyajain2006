@@ -18,7 +18,10 @@
 
 ### 🌐 Web & AI Development:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,mysql" />
+  <!-- <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,mysql" /> -->
+  <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=black" />
+  <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=black" />
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### ⚙️ Tools:
