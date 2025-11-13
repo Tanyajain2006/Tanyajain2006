@@ -39,21 +39,21 @@
   </a>
 </p>
 
+### 🧩 Neural Intelligence Arsenal:
 <p align="left">
-  ### 🧩 Neural Intelligence Arsenal:
   <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
+### 📊 GitHub Stats:
 <p align="center">
-  ### 📊 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api?username=Tanyajain2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" />
 </p>
 
+### 🔗 Connect With Me:
 <p align="left">
-  ### 🔗 Connect With Me:
   <a href="https://www.linkedin.com/in/tanyajain2006/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
