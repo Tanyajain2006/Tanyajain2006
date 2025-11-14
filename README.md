@@ -65,7 +65,7 @@
 
 <h3> 2. Open Source Contributor @Hacktoberfest2025</h3>
 <p align="center>
-  <img width="817" height="359" alt="Screenshot 2025-11-14 094504" src="https://github.com/user-attachments/assets/36c95e4d-8472-47c1-8f9e-4906065d8aeb" />
+  <img width="983" height="443" alt="image" src="https://github.com/user-attachments/assets/ecb2f6d0-ffdd-4fb9-86f9-50c8a7b11edd" />
 </p>
 
 Project: BinEd HexEditor in Java
