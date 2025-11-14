@@ -52,6 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" />
 </p>
 
+### 🏆Some Achievements in Open Source
+<p align="center"> Top 10 in GDG SnowScript Winter of Code
+  <img src"https://drive.google.com/drive/u/0/folders/1vybw8akT6pkxaiPpIayohAmad74nNGd2"/>
+</p>
+
 ### 🔗 Connect With Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/tanyajain2006/" target="_blank">
