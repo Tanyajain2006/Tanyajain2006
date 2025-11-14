@@ -68,12 +68,14 @@
   <img width="983" height="443" alt="image" src="https://github.com/user-attachments/assets/ecb2f6d0-ffdd-4fb9-86f9-50c8a7b11edd" />
 </p>
 
-Project: BinEd HexEditor in Java
+<li>
+  Project: BinEd HexEditor in Java
 - 🔍 Regex search
 - 🔍 Hex search w/ wildcards
 - 🔍 Background search (no UI freeze)
 - 🔍 Progress bar + live results
 - 🔍 Custom BytePattern + SearchPanel UI
+</li>
 
 ### 🔗 Connect With Me:
 <p align="left">
