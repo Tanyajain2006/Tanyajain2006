@@ -56,12 +56,12 @@
 <h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code</h3>
 <p align="center">
   <img width="732" height="504" alt="image" src="https://github.com/user-attachments/assets/187e07c3-bede-499c-9dda-f831f7d5cad5" />
-  <li>
-    <ul>Contributed merged Pull Requests in Data Structures & Algorithms by implementing optimized solutions with clean code and edge-case coverage.</ul>
-    <ul>Authored Technical Writing PRs including algorithm tutorials and improved project documentation for better developer onboarding.</ul>
-    <ul>Ranked in the Top 10 among 500+ contributors for quality, consistency, and impactful open-source contributions.</ul>
-  </li>
 </p>
+<li>
+  <ul>Contributed merged Pull Requests in Data Structures & Algorithms by implementing optimized solutions with clean code and edge-case coverage.</ul>
+  <ul>Authored Technical Writing PRs including algorithm tutorials and improved project documentation for better developer onboarding.</ul>
+  <ul>Ranked in the Top 10 among 500+ contributors for quality, consistency, and impactful open-source contributions.</ul>
+</li>
 
 ### 🔗 Connect With Me:
 <p align="left">
