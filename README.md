@@ -53,7 +53,8 @@
 </p>
 
 ### 🏆Open Source Work Done
-<p align="center"> 1) Open Source Contributor @GDG-SnowScript_Winter_of_Code
+<h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code</h3>
+<p align="center">
   <img width="732" height="504" alt="image" src="https://github.com/user-attachments/assets/187e07c3-bede-499c-9dda-f831f7d5cad5" />
   <li>
     <ul>Contributed merged Pull Requests in Data Structures & Algorithms by implementing optimized solutions with clean code and edge-case coverage.</ul>
