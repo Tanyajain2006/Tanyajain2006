@@ -54,7 +54,7 @@
 
 ### 🏆Some Achievements in Open Source
 <p align="center"> Top 10 in GDG SnowScript Winter of Code
-  <img src"https://drive.google.com/drive/u/0/folders/1vybw8akT6pkxaiPpIayohAmad74nNGd2"/>
+  <img width="732" height="504" alt="image" src="https://github.com/user-attachments/assets/187e07c3-bede-499c-9dda-f831f7d5cad5" />
 </p>
 
 ### 🔗 Connect With Me:
