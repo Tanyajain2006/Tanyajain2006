@@ -53,7 +53,7 @@
 </p>
 
 ### 🏆Open Source Work Done
-<h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code</h3>
+<h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code 2024-25</h3>
 <p align="center">
   <img width="732" height="504" alt="image" src="https://github.com/user-attachments/assets/187e07c3-bede-499c-9dda-f831f7d5cad5" />
 </p>
@@ -62,6 +62,18 @@
   <ul>Authored Technical Writing PRs including algorithm tutorials and improved project documentation for better developer onboarding.</ul>
   <ul>Ranked in the Top 10 among 500+ contributors for quality, consistency, and impactful open-source contributions.</ul>
 </li>
+
+<h3> 2. Open Source Contributor @Hacktoberfest2025</h3>
+<p align="center>
+  <img width="817" height="359" alt="Screenshot 2025-11-14 094504" src="https://github.com/user-attachments/assets/36c95e4d-8472-47c1-8f9e-4906065d8aeb" />
+</p>
+
+Project: BinEd HexEditor in Java
+- 🔍 Regex search
+- 🔍 Hex search w/ wildcards
+- 🔍 Background search (no UI freeze)
+- 🔍 Progress bar + live results
+- 🔍 Custom BytePattern + SearchPanel UI
 
 ### 🔗 Connect With Me:
 <p align="left">
