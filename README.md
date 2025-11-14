@@ -52,9 +52,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" />
 </p>
 
-### 🏆Some Achievements in Open Source
-<p align="center"> Top 10 in GDG SnowScript Winter of Code
+### 🏆Open Source Work Done
+<p align="center"> 1) Open Source Contributor @GDG-SnowScript_Winter_of_Code
   <img width="732" height="504" alt="image" src="https://github.com/user-attachments/assets/187e07c3-bede-499c-9dda-f831f7d5cad5" />
+  <li>
+    <ul>Contributed merged Pull Requests in Data Structures & Algorithms by implementing optimized solutions with clean code and edge-case coverage.</ul>
+    <ul>Authored Technical Writing PRs including algorithm tutorials and improved project documentation for better developer onboarding.</ul>
+    <ul>Ranked in the Top 10 among 500+ contributors for quality, consistency, and impactful open-source contributions.</ul>
+  </li>
 </p>
 
 ### 🔗 Connect With Me:
