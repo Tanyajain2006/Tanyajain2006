@@ -55,6 +55,7 @@
 ### 🔥 GitHub Streak:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanyajain2006&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/🔥 Highest_Streak-37_Days-blueviolet?style=for-the-badge" />
 </p>
 
 ### 🏆Open Source Work Done
