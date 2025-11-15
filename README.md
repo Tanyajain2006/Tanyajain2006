@@ -82,8 +82,11 @@
 
 ### 🔗 Connect With Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanyajain2006/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/TanyaJain-igdtuw-cseai27/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+   <a href="https://x.com/TanyaJain2006" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=GeeksforGeeks&logoColor=black" />
   </a>
 </p>
 
