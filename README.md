@@ -52,6 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" />
 </p>
 
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanyajain2006&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
 ### 🏆Open Source Work Done
 <h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code 2024-25</h3>
 <p align="center">
