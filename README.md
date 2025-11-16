@@ -59,7 +59,6 @@
 
 ### 🩵 Contribution Graph
 ![Tanya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanyajain2006&theme=tokyo-night)
-![GitHub contribution grid snake animation](https://raw.githubusercontent.com/Tanyajain2006/Tanyajain2006/output/github-contribution-grid-snake.svg)
 
 ### 🏆Open Source Work Done
 <h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code 2024-25</h3>
