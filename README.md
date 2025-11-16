@@ -57,6 +57,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanyajain2006&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
+### 🩵 Contribution Graph
 ![Tanya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanyajain2006&theme=tokyo-night)
 
 ### 🏆Open Source Work Done
