@@ -48,19 +48,19 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanyajain2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tanyajain2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanyajain2006&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Tanyajain2006&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ### 🩵 Contribution Graph
 ![Tanya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanyajain2006&theme=tokyo-night)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanyajain2006)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanyajain2006&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🏆Open Source Work Done
 <h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code 2024-25</h3>
