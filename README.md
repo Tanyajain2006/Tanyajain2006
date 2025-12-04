@@ -46,7 +46,34 @@
   <img src="https://img.shields.io/badge/-GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
+<!--
+### 🔥 GitHub Stats & Activity
+<div align="center">
+   <a href="https://www.holopin.io/@tanyajain2006#" target="_blank">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=TanyaJain2006&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaJain2006&layout=compact&theme=tokyonight" height="160px"/>
+  
+  <br>
+  <img src="https://streak-stats.demolab.com?user=TanyaJain2006&theme=tokyonight" height="180px"/>
+  
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanyaJain2006&theme=tokyo-night" width="95%"/>
+  
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=TanyaJain2006&theme=tokyonight&margin-w=10&no-frame=true&row=2&column=3"/>
+
+</div>
+-->
+
+
 ### 📊 GitHub Stats:
+<p align="center">
+  <a href="https://www.holopin.io/@tanyajain2006#" target="_blank">
+    <img src="https://holopin.me/tanyajain2006" alt="@tanyajain2006's Holopin board"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tanyajain2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -54,7 +81,7 @@
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tanyajain2006&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TanyaJain2006&theme=tokyonight" height="1000px"/>
 </p>
 
 ### 🩵 Contribution Graph
@@ -64,6 +91,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TanyaJain2006&theme=tokyonight&margin-w=10" alt="Trophies" />
 </p>
+
 
 ### Open Source Work Done
 <h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code 2024-25</h3>
@@ -89,18 +117,16 @@
 - 🔍 Custom BytePattern + SearchPanel UI
 
 ### 🔗 Connect With Me:
-<p align="left">
-   <a href="https://www.linkedin.com/in/TanyaJain-igdtuw-cseai27/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=black" />
-  </a>
-   <a href="https://x.com/TanyaJain2006" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X&logoColor=black" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/TanyaJain-igdtuw-cseai27"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://x.com/TanyaJain2006"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
 
 ### 💬 Quote:
 Conjure your code🪄, let the logic sparkle✨, and watch your programs cast their spell🔮
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tanyajain2006&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TanyaJain2006&label=Profile%20Views&color=blueviolet&style=flat">
+</p>
 
 ---
