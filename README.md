@@ -60,9 +60,12 @@
 ### 🩵 Contribution Graph
 ![Tanya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanyajain2006&theme=tokyo-night)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanyajain2006&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TanyaJain2006&theme=tokyonight&margin-w=10" alt="Trophies" />
+</p>
 
-### 🏆Open Source Work Done
+### Open Source Work Done
 <h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code 2024-25</h3>
 <p align="center">
   <img width="732" height="504" alt="image" src="https://github.com/user-attachments/assets/187e07c3-bede-499c-9dda-f831f7d5cad5" />
