@@ -75,8 +75,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tanyajain2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanyajain2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyajain2006&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 🔥 GitHub Streak:
