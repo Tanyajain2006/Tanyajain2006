@@ -12,12 +12,12 @@
   - 🤝 Open to collaboration and love to participate in coding as well as dev competitions!
 
 ### 🧠 Core Programming Languages:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### 🌐 Web & AI Development:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,mysql" />
   <!-- <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=black" />
   <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=black" />
@@ -25,12 +25,12 @@
 </p>
 
 ### ⚙️ Tools:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ### 💻 Coding Profiles:
-<p align="left">
+<p align="center">
    <a href="https://leetcode.com/u/jaintanya2006/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -40,13 +40,12 @@
 </p>
 
 ### 🧩 Neural Intelligence Arsenal:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
-<!--
 ### 🔥 GitHub Stats & Activity
 <div align="center">
    <a href="https://www.holopin.io/@tanyajain2006#" target="_blank">
@@ -64,7 +63,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=TanyaJain2006&theme=tokyonight&margin-w=10&no-frame=true&row=2&column=3"/>
 
 </div>
--->
 
 
 ### 📊 GitHub Stats:
@@ -97,7 +95,7 @@
 ### Open Source Work Done
 <h3> 1. Open Source Contributor @GDG-SnowScript_Winter_of_Code 2024-25</h3>
 <p align="center">
-  <img width="732" height="504" alt="image" src="https://github.com/user-attachments/assets/187e07c3-bede-499c-9dda-f831f7d5cad5" />
+  <img width="732" height="534" alt="image" src="https://github.com/user-attachments/assets/187e07c3-bede-499c-9dda-f831f7d5cad5" />
 </p>
 <li>
   <ul>Contributed merged Pull Requests in Data Structures & Algorithms by implementing optimized solutions with clean code and edge-case coverage.</ul>
