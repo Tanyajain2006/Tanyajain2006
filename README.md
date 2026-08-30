@@ -2,7 +2,7 @@
 <h3 align="center">Turning Ideas into Digital Reality 🚀</h3>
 
 ### 💫 About Me:
-  - 🎓 Pre-final year CSE-AI Student at **IGDTUW'27**
+  - 🎓 Final year CSE-AI Student at **IGDTUW'27**
   - 💻 Passionate about **solving problems with code**
   - 📚 Solved 700+ problems of **Data Structures & Algorithms (DSA)**
   - 🌐 Exploring **AI, ML, and Backend Development using SpringBoot**
